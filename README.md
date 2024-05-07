@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Abdur-Rahman Olaniyan (available for immediate Joining)
-- 👀 I’m interested in Data Analytics and Microsoft Power Platform
-- 🌱 I’m currently upskilling on T-SQl, pyspark, DAX and MS Fabric
+- 👋 Hi, my name is Abdur-Rahman Olaniyan
+- 👀 I am interested in Data Analytics and Microsoft Power Platform
+- 🌱 I am currently upskilling on T-SQl, pyspark, DAX and MS Fabric
 - ✨ I have experince with SQL, MS Excel and Google Spreadsheet, PowerBI and Python
-- 💞️ I’m looking to collaborate on projects and job role on Data Analytics and AI/ML
+- 💞️ I am looking to collaborate on projects and job role on Data Analytics and ML
 - 📫 You can reach me via abdurrahmanolaniyan@outlook.com or https://www.linkedin.com/in/abdur-rahman-olaniyan
 - 💼 My work is available here https://github.com/ryDataNaut/Hamoye-Internship
 

@@ -4,7 +4,7 @@
 - ✨ I have experince with SQL, MS Excel and Google Spreadsheet, PowerBI and Python
 - 💞️ I am looking to collaborate on projects and job role on Data Analytics and ML
 - 📫 You can reach me via abdurrahmanolaniyan@outlook.com or https://www.linkedin.com/in/abdur-rahman-olaniyan
-- 💼 My work is available here https://github.com/AbdurRahman-Olaniyan/Hamoye-Internship
+- 💼 My work is available here https://github.com/AbdurRahman-Olaniyan?tab=repositories
 
 <!---
 ryDataNaut/ryDataNaut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Abdur-Rahman Olaniyan
-- 👀 I am interested in Data Analytics and Microsoft Power Platform
+- 👀 I am interested in Data Analytics
 - 🌱 I am currently upskilling on pyspark and MS Fabric
 - ✨ I have experince with SQL, MS Excel and Google Spreadsheet, PowerBI and Python
 - 💞️ I am looking to collaborate on projects and job role in Data Analysis
